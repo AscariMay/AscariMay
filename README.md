@@ -1,7 +1,7 @@
 ## Hi there, my name's Mayara Ascari 👋
 :octocat: Welcome to my GitHub profile!
 
-🎓 I'm studying Analysis and Systems Development. 
+🎓 I'm studying System Analysis and Development. 
 
 
 ## Technologies ⚡
